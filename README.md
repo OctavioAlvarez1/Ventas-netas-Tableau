@@ -34,7 +34,7 @@ Este proyecto presenta un dashboard interactivo realizado en Tableau, diseñado 
 - **Microsoft Excel** (limpieza de datos)  
 - **Mapbox** (visualización geográfica)
 - 
-<img src="Imagenes/Dashboard.png" width="400"/>
+<img src="Imagenes/Dashboard.png" width="600"/>
 
 ---
 
@@ -42,7 +42,7 @@ Este proyecto presenta un dashboard interactivo realizado en Tableau, diseñado 
 
 ### 🎨 Cantidad por color
 
-<img src="images/color_quantity.png" width="400"/>
+<img src="Imagenes/colores.png" width="600"/>
 
 Permite identificar los colores más vendidos. Se destacan el negro, rojo y azul.
 
@@ -50,9 +50,7 @@ Permite identificar los colores más vendidos. Se destacan el negro, rojo y azul
 
 ### 🌍 Promedio total neto por país (mapa)
 
-<img src="images/net_sales_map_españa.png" width="500"/>
-<img src="images/net_sales_map_peru.png" width="500"/>
-<img src="images/net_sales_map_argentina.png" width="500"/>
+<img src="Imagenes/mapa.png" width="600"/>
 
 Muestra los países con mayor volumen de ventas netas. España, Perú y Argentina son los líderes.
 
@@ -60,7 +58,7 @@ Muestra los países con mayor volumen de ventas netas. España, Perú y Argentin
 
 ### 🔻 Clúster por país y cantidad
 
-<img src="images/cluster_countries.png" width="400"/>
+<img src="Imagenes/cluster.png" width="600"/>
 
 Agrupación de países según el volumen de compras para identificar patrones de comportamiento por región.
 
@@ -68,7 +66,7 @@ Agrupación de países según el volumen de compras para identificar patrones de
 
 ### 📦 Promedio total neto por producto
 
-<img src="images/product_treemap.png" width="400"/>
+<img src="Imagenes/neto.png" width="600"/>
 
 Treemap que compara el rendimiento de cada tipo de producto. Las camisetas y los pantalones tienen mayor volumen de venta.
 
@@ -76,7 +74,7 @@ Treemap que compara el rendimiento de cada tipo de producto. Las camisetas y los
 
 ### 📈 Total neto por mes
 
-<img src="images/net_total_by_month.png" width="500"/>
+<img src="Imagenes/mes.png" width="600"/>
 
 Gráfico de líneas que muestra la evolución mensual de ventas. Se observan picos en julio y noviembre.
 
@@ -84,7 +82,7 @@ Gráfico de líneas que muestra la evolución mensual de ventas. Se observan pic
 
 ### 💰 Distribución de precios
 
-<img src="images/price_distribution.png" width="500"/>
+<img src="Imagenes/precios.png" width="600"/>
 
 Histograma con los precios de venta. La mayoría de los productos se ubican entre los 25 y 50 unidades monetarias.
 
@@ -100,5 +98,9 @@ Histograma con los precios de venta. La mayoría de los productos se ubican entr
 
 ---
 
-## 📂 Estructura del proyecto
+## 👨‍💻 Autor
+
+**Octavio Alvarez**  
+Analista de Datos — Tableau Developer  
+[LinkedIn](https://www.linkedin.com/in/octavio-alvarez-6a229b223/)
 
