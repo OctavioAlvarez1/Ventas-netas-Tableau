@@ -2,10 +2,7 @@
 
 Este proyecto presenta un dashboard interactivo realizado en Tableau, diseñado para analizar las ventas netas entre los años 2019 y 2021. El análisis incluye métricas como cantidad de productos vendidos, precios, colores preferidos, comportamiento por país y evolución temporal, con el objetivo de descubrir patrones de consumo y oportunidades de negocio.
 
-<p align="center">
-  <img src="images/dashboard_overview.png" width="800"/>
-</p>
-
+<img src="Imagenes/Dashboard.png" width="600"/>
 ---
 
 ## 📁 Descripción del dataset
@@ -34,7 +31,6 @@ Este proyecto presenta un dashboard interactivo realizado en Tableau, diseñado 
 - **Microsoft Excel** (limpieza de datos)  
 - **Mapbox** (visualización geográfica)
 - 
-<img src="Imagenes/Dashboard.png" width="600"/>
 
 ---
 
